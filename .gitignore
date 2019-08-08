@@ -1,0 +1,10 @@
+# Default ignored files
+/.idea/workspace.xml
+/libraries/com_google_code_gson_gson_2_8_5.xml
+/libraries/io_netty_netty_all_4_1_38_Final.xml
+/misc.xml
+/modules.xml
+/uiDesigner.xml
+/vcs.xml
+/.idea
+/out
